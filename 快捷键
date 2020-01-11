@@ -11,9 +11,12 @@
 11 关闭电脑：win+d 回到桌面模式 alt+fn+f4 确定
 12 新建文件夹：win+d 回到桌面模式 ctrl+shift+n
 13 ctrl+t 新建子窗口
+
 14 创建新建txt文件快捷键：
 1）打开注册表（win+r,输入regedit）
 2）定位到 HKEY_CLASSES_ROOT，ctrl+f 输入C:\Windows\system32\notepad.exe,-469 搜索
 3）找到后双击，将数值数据中的“文本文档”改为“T文本文档”，确定，设置成功
 4）回到桌面，右键 WT即可
-5）可以用同样的方法设置其他快捷键                      
+5）可以用同样的方法设置其他快捷键 
+
+15 窗口直接切换：alt+tab 缩小所有窗口，按住alt，反复按tab键 一直切换到想要的窗口，松开。
